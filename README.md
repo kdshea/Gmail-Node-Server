@@ -54,3 +54,17 @@ If you have any questions or would like to discuss potential opportunities, plea
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@kd_shea)
 
+## Other Projects
+Take a look at other projects that I have in my own portfolio:
+
+**[Truffle Health Bill Upload](https://github.com/kdshea/Medical-Bill-Upload)**
+
+**[Seeker App](https://github.com/kdshea/Seeker-Full-Stack)** 
+
+**[Exploradex](https//github.com/kdshea/Exploradex-Server)** 
+
+**[Coconut Club](https://github.com/kdshea/Coconut-Club-Site)**
+
+**[Tetris Clone](https://github.com/kdshea/Tetris-Clone)**
+
+**[Speed Pour 2016](https://github.com/kdshea/Speed-Pour-2016)**
